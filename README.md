@@ -1,5 +1,3 @@
-# analisis-expresion-genica
-Análisis exploratorio de datos de expresión génica con R.
 # Análisis exploratorio de expresión génica con R
 
 ## Descripción
