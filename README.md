@@ -48,3 +48,9 @@ Proyecto realizado individualmente por Jessica Crespo.
 ## Licencia
 
 Este proyecto se distribuye bajo la licencia MIT incluida en el repositorio.
+
+## obtener una copia con Git
+
+Para descargar el repositorio, ejecutar:
+
+  git clone https://github.com/jesica708/analisis-expresion-genica.git
